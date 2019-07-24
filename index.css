@@ -1,0 +1,29 @@
+h1{
+  color:blue, font-size:60px;
+}
+
+body {
+  background-image: url("colors2.jpg");
+  font-family: 'Cutive Mono', monospace;
+  font-size:20px;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+img{
+  width:250px;
+  height: auto;
+  border-radius: 8px;
+
+
+}
+
+
+p:hover, h1:hover, a:hover ul:hover{
+  background-color: orange;
+}
